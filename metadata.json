@@ -1,0 +1,41 @@
+{
+  "color" : "FF9F0A",
+  "name" : "Reactions",
+  "description" : "Music compositions associated with emotions.",
+  "sorts" : "[{\"sortValue\":\"name\",\"isForward\":true}]",
+  "image" : "🤪",
+  "sounds" : [
+    {
+      "color" : "30D158",
+      "name" : "Buzz Roll",
+      "type" : "wav",
+      "image" : "😯"
+    },
+    {
+      "type" : "wav",
+      "image" : "🫨",
+      "color" : "5E5CE6",
+      "name" : "Cinematic Horn"
+    },
+    {
+      "color" : "FF453A",
+      "name" : "Rimshot",
+      "image" : "😂",
+      "type" : "wav"
+    },
+    {
+      "image" : "😓",
+      "type" : "wav",
+      "name" : "Sad Trombone",
+      "color" : "ADADAD"
+    },
+    {
+      "name" : "Tada!",
+      "image" : "😲",
+      "color" : "40C8E0",
+      "duration" : 21,
+      "size" : 5515538,
+      "type" : "aiff"
+    }
+  ]
+}
