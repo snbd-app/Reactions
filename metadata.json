@@ -4,6 +4,8 @@
   "description" : "Music compositions associated with emotions.",
   "sorts" : "[{\"sortValue\":\"name\",\"isForward\":true}]",
   "image" : "🤪",
+  "duration" : 21,
+  "size" : 5515538,
   "sounds" : [
     {
       "color" : "30D158",
@@ -33,8 +35,6 @@
       "name" : "Tada!",
       "image" : "😲",
       "color" : "40C8E0",
-      "duration" : 21,
-      "size" : 5515538,
       "type" : "aiff"
     }
   ]
