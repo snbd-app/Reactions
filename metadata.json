@@ -11,30 +11,35 @@
       "color" : "30D158",
       "name" : "Buzz Roll",
       "type" : "wav",
+      "audioSource" : "[buzz roll](https://freesound.org/people/bigjoedrummer/sounds/77305/) by [bigjoedrummer](https://freesound.org/people/bigjoedrummer) is licensed under [CC0](http://creativecommons.org/publicdomain/zero/1.0/)",
       "image" : "😯"
     },
     {
       "type" : "wav",
       "image" : "🫨",
       "color" : "5E5CE6",
+      "audioSource" : "[Inception-2](https://freesound.org/people/chelan/sounds/104833/) by [chelan](https://freesound.org/people/chelan) is licensed under [CC 3.0](https://creativecommons.org/licenses/by/3.0/)",
       "name" : "Cinematic Horn"
     },
     {
       "color" : "FF453A",
       "name" : "Rimshot",
       "image" : "😂",
+      "audioSource" : "[Baddum Tish - Comedy Rimshots - classic rim shot](https://freesound.org/people/rodincoil/sounds/271208) by [rodincoil](https://freesound.org/people/rodincoil) is licensed under [CC0](https://creativecommons.org/publicdomain/zero/1.0/)",
       "type" : "wav"
     },
     {
       "image" : "😓",
       "type" : "wav",
       "name" : "Sad Trombone",
+      "audioSource" : "[Sad Trombone](https://freesound.org/people/Benboncan/sounds/73581/) by [Benboncan](https://freesound.org/people/Benboncan) is licensed under [CC 4.0](https://creativecommons.org/licenses/by/4.0/)",
       "color" : "ADADAD"
     },
     {
       "name" : "Tada!",
       "image" : "😲",
       "color" : "40C8E0",
+      "audioSource" : "[TaDa!](https://freesound.org/people/jimhancock/sounds/256128/) by [jimhancock](https://freesound.org/people/jimhancock) is licensed under [CC0](http://creativecommons.org/publicdomain/zero/1.0/)",
       "type" : "aiff"
     }
   ]
